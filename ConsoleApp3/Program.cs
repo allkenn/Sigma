@@ -6,10 +6,20 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp3
 {
-    internal class Program
+    internal class ArrayHelper
     {
-        static void Main(string[] args)
+        internal static double SearchAverage(int{ } Array)
+
+            internal static int SecondMax(int{ } Array)
         {
+            int max = Array{0};
+            int index_max = 0
+
         }
+        
+    }
+    class Massiv
+    {
+        
     }
 }
